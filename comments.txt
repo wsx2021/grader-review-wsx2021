@@ -1,0 +1,14 @@
+Kane Li:
+	•	I like the simplicity of their code
+	•	It’s nice that grade doesn’t pass if compilation fails, tells us the grade in all cases
+	•	Not entirely sure if the filter test is supposed to be a compile error
+	•	I like that it told us which file was missing, though maybe a little too specific to only checking for ListExamples
+	•	Pretty sure nested case should tell us that they can’t find the file
+	•	Perhaps it may be better if partial pass is echoed if the amount of fails is less than the amount of runs, rather than if it’s 1 or not.
+Ned
+	•	It is well organized and easy to read. 
+	•	Variables make it easy to manage
+	•	It checks for errors and prints the right error messages
+	•	The script logic is sound and checks for errors.
+	•	The output is clear and easy to read
+	•	Error: : command not found
